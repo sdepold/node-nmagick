@@ -1,0 +1,16 @@
+{
+  "author": "Sascha Depold <sascha@depold.com> (http://depold.com)",
+  "name": "nmagick",
+  "description": "A wrapper for ImageMagick",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sdepold/node-nmagick",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sdepold/node-nmagick.git"
+  },
+  "engines": {
+    "node": "~v0.4.2"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
